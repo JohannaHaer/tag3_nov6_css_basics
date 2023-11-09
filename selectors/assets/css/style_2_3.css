@@ -1,0 +1,39 @@
+body {
+    font-family: monospace;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1:hover {
+    color: aquamarine;
+}
+
+div:nth-of-type(3) {
+    background-color: aquamarine;
+}
+
+li:nth-of-type(1), li:nth-of-type(2), li:nth-of-type(3) {
+    font-style: italic;
+}
+
+.test {
+    margin: 0 auto;
+    width: max-content;
+}
+
+a {
+    text-decoration: none;
+    border: 2px solid aquamarine;
+    padding: 2px;
+    text-transform: uppercase;
+}
+
+a:hover {
+    font-size: 1.3rem;
+}
+
+a:active {
+    color: purple;
+}

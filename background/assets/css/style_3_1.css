@@ -1,0 +1,10 @@
+section {
+    background: url('../images/photo-1537498425277-c283d32ef9db.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+body {
+    margin: 0 auto;
+}
